@@ -1,2 +1,2 @@
-# myproject
-Project to build Openstack and Openshift
+# Projects
+This repository used for Practice purpose
